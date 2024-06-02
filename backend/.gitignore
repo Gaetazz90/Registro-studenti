@@ -1,0 +1,38 @@
+# Dipendenze Node
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Produzione
+/build
+/dist
+
+# Ambiente di sviluppo
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+*.swp
+
+# Misc
+*.log
